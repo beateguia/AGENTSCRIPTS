@@ -1,0 +1,4 @@
+
+crontab -e
+**14***/root/LogDel.sh
+
